@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @Fredsz_
-- 👀 I’m interested in design and programing
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me? DM insta @fredsz_
+# Hi there 👋, I'm Ferdy Deva Pangestu
+
+## 🔹 About Me
+- 💻 Passionate about programming, web development, and digital innovation  
+- 🎓 Currently studying **Bisnis Digital** at **Politeknik Bhaktisemesta**  
+- 🌐 Interested in building practical apps, startup projects, and portfolio showcases  
+
+## 🔹 Skills
+| Frontend | Backend | Tools & Others |
+|----------|---------|----------------|
+| HTML, CSS, JavaScript, React, Flutter | Laravel, Node.js, Firebase | Git, GitHub, Vercel, Figma |
+
+## 🔹 Contact & Links
+- 📫 Email: ferdy@example.com  
+- 🌐 Portfolio: [fredsz.vercel.app](https://fredsz.vercel.app)  
+- 💼 LinkedIn: [Ferdy Deva Pangestu](https://id.linkedin.com/in/fredsz)  
+
+---
+
+## 🔹 Fun Fact
+> "I like you 😎"
+
 
 <!---
 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
