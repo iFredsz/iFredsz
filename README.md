@@ -8,7 +8,7 @@
 ## 🔹 Skills
 | Frontend | Backend | Tools & Others |
 |----------|---------|----------------|
-| HTML, CSS, TypeScript, React, Flutter | Laravel, Node.js, Firebase, Express | Git, GitHub, Vercel, Figma |
+| Next.js, React, Laravel, TypeScript, Material-UI, Tailwind, PHP, HTML, CSS, Flutter | Node.js, MongoDB, MySQL, PostgreSQL, Firebase, Express | Git, GitHub, Vercel, Figma |
 
 ## 🔹 Contact & Links
 - 📫 Email: ferdydeva@gmail.com
