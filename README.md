@@ -1,24 +1,24 @@
 # Hi there 👋, I'm Ferdy Deva Pangestu
 
 ## 🔹 About Me
+- 🎓 Digital Business Background at **Politeknik Bhakti Semesta**
 - 💻 Passionate about programming, web development, and digital innovation  
-- 🎓 Currently studying **Bisnis Digital** at **Politeknik Bhaktisemesta**  
-- 🌐 Interested in building practical apps, startup projects, and portfolio showcases  
+- 🌐 Continuously learning about digital business and new technologies  
 
 ## 🔹 Skills
 | Frontend | Backend | Tools & Others |
 |----------|---------|----------------|
-| HTML, CSS, JavaScript, React, Flutter | Laravel, Node.js, Firebase | Git, GitHub, Vercel, Figma |
+| HTML, CSS, TypeScript, React, Flutter | Laravel, Node.js, Firebase, Express | Git, GitHub, Vercel, Figma |
 
 ## 🔹 Contact & Links
-- 📫 Email: ferdy@example.com  
-- 🌐 Portfolio: [fredsz.vercel.app](https://fredsz.vercel.app)  
+- 📫 Email: ferdydeva@gmail.com
+- 🌐 Portfolio: [Fredsz](https://fredsz.vercel.app)  
 - 💼 LinkedIn: [Ferdy Deva Pangestu](https://id.linkedin.com/in/fredsz)  
 
 ---
 
 ## 🔹 Fun Fact
-> "I like you 😎"
+> "I like female 😎"
 
 
 <!---
